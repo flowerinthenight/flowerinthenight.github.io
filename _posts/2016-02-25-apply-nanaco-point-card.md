@@ -6,7 +6,7 @@ categories: ["Japan"]
 comments: true
 ---
 
-After six or so years living in Japan, I just got mine today. Yeah, I knowi...
+After six or so years living in Japan, I just got mine today. Yeah, I know...
 
 [GaijinPot](https://gaijinpot.com/) has an [article](https://blog.gaijinpot.com/convenience-store-point-cards/) about point cards from three of the most common convenience stores in the country. I already have Lawsons Ponta card and Family Marts T-Point ages ago but for some reason, I actually havent heard of 7-11s [Nanaco](https://en.wikipedia.org/wiki/Nanaco). Or maybe I did but I probably didnt bother.
 
