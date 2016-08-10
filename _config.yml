@@ -43,9 +43,9 @@ analytics:
 # Set 'provider' to false to turn commenting off globally.
 #
 comments:
-    provider:
+    provider: disqus
     disqus:
-      short_name:
+      short_name: flowerinthenight
     livefyre:
       site_id:
     intensedebate:
