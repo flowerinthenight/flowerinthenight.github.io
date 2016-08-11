@@ -6,7 +6,7 @@ categories: ["Code"]
 comments: true
 ---
 
-Vim has always been my go to editor/IDE when Im outside of Visual Studio. Heres my base `_vimrc` for Windows.
+Vim has always been my go to editor/IDE when I'm outside of Visual Studio. Here's my base `_vimrc` for Windows.
 
 {% highlight conf %}
 set wrap
@@ -50,7 +50,7 @@ nnoremap <leader>b :ls<CR>:
 nnoremap <leader>s :w<CR>
 {% endhighlight %}
 
-And heres my base `.vimrc` for Linux and OSX.
+And here's my base `.vimrc` for Linux and OSX.
 
 {% highlight conf %}
 let mapleader = " "
