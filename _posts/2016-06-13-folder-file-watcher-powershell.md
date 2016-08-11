@@ -6,6 +6,8 @@ categories: ["Code"]
 comments: true
 ---
 
+Pardon the syntax hightlighting here. I'm using the `<pre>` tags at the moment as the highlighter fails with the following code.
+
 <pre>
 Param($MonitorFolder, $SleepInSec)
 
