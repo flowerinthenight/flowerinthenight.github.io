@@ -6,9 +6,9 @@ categories: ["Code"]
 comments: true
 ---
 
-Pardon the syntax hightlighting here. I'm using the `<pre>` tags at the moment as the highlighter fails with the following code.
+Personal reference:
 
-<pre>
+{% highlight powershell %}
 Param($MonitorFolder, $SleepInSec)
 
 if (!$MonitorFolder) {
@@ -117,4 +117,4 @@ while (!$workComplete) {
 
 Write-Host "Script Finished."
 Read-Host "Press any key to end"
-</pre>
+{% endhighlight %}
