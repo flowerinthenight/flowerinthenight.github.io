@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How I set up my samba file server"
+title: "How I set up my Samba file server"
 location: "Japan"
 categories: ["Tech"]
 comments: true
