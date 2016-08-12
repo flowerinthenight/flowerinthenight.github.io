@@ -8,8 +8,8 @@ comments: true
 
 I use `tmux` heavily and in tandem with `vim`. Much more so now when it's supported on Bash on Windows as well. I don't have to spin up a Linux VM just for the purpose of being my `tmux` "server".
 
-<pre>
-# Set a Ctrl-b shortcut for reloading your tmux config
+{% highlight conf %}
+# Set a Ctrl-b shortcut for reloading tmux config
 unbind r
 bind r source-file ~/.tmux.conf
 
@@ -18,7 +18,7 @@ unbind C-b
 set -g prefix C-a
 bind C-a send-prefix
 
-# Rename your terminals
+# Rename terminals
 set -g set-titles on
 set -g set-titles-string '#(whoami)@#h@#(curl ipecho.net/plain;echo)'
 
@@ -45,4 +45,4 @@ set -g mode-keys vi
 
 # Extend history limit
 set -g history-limit 10000
-</pre>
+{% endhighlight %}
