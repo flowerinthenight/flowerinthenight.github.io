@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How To Apply For A Nanaco Point Card"
+title: "How to apply for a Nanaco point card"
 location: "Japan"
 categories: ["Japan"]
 comments: true

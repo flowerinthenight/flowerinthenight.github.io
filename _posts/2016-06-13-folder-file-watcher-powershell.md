@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Simple Folder/File Watcher In Powershell"
+title: "A simple folder/file watcher in Powershell"
 location: "Japan"
 categories: ["Code"]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SSH From A Windows Client To A Linux Server"
+title: "SSH from a Windows client to a Linux server"
 location: "Japan"
 categories: ["Tech"]
 comments: true

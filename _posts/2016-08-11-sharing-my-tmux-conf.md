@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sharing My .tmux.conf"
+title: "Sharing my .tmux.conf"
 location: "Japan"
 categories: ["Code"]
 comments: true

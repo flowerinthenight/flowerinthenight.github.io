@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Simple Zip Function In Powershell"
+title: "A simple zip function in Powershell"
 location: "Japan"
 categories: ["Code"]
 comments: true

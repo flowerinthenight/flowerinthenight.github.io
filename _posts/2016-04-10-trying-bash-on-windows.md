@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trying Out Bash On Windows"
+title: "Trying out Bash on Windows"
 location: "Japan"
 categories: ["Japan"]
 comments: true

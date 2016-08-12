@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sharing My .vimrc"
+title: "Sharing my .vimrc"
 location: "Japan"
 categories: ["Code"]
 comments: true

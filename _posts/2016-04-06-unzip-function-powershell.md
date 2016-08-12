@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Simple Unzip Function In Powershell"
+title: "A simple unzip function in Powershell"
 location: "Japan"
 categories: ["Code"]
 comments: true

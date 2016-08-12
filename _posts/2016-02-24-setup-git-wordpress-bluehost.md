@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How I Setup Git For My WordPress Installation In BlueHost"
+title: "How I setup git for my wordPress installation in BlueHost"
 location: "Japan"
 categories: ["Tech"]
 comments: true

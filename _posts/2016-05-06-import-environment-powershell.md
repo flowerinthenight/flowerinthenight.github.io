@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Simple Powershell Function To Import An Environment"
+title: "A simple Powershell function to import an environment"
 location: "Japan"
 categories: ["Code"]
 comments: true

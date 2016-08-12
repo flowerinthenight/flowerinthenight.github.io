@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Simple Signal Handler In C/C++ (Linux)"
+title: "A simple signal handler in C/C++ (Linux)"
 location: "Japan"
 categories: ["Code"]
 comments: true
