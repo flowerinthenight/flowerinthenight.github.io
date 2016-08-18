@@ -67,3 +67,15 @@ For example, history of line 155 of main.cpp
 {% highlight shell %}
 git log --topo-order --graph -u -L 155,155:main.cpp
 {% endhighlight %}
+
+### Compare (diff) a file from the current branch to another branch
+
+{% highlight shell %}
+git diff ..<target-branch> <path-to-file>
+{% endhighlight %}
+
+Or if `difftool` is configured
+
+{% highlight shell %}
+git difftool ..<target-branch> <path-to-file>
+{% endhighlight %}
