@@ -124,6 +124,12 @@ filetype plugin indent on
 " Save marks to up to 100 files, save global marks as well (f1). To disable, f0
 set viminfo='100,f1
 
+" Folding options
+set foldmethod=indent
+set foldnestmax=20
+set nofoldenable
+set foldlevel=0
+
 set tabstop=4
 set shiftwidth=4
 set softtabstop=4
