@@ -2,7 +2,7 @@
 layout: post
 title: "Simple directory cleanup tool for Windows (golang)"
 location: "Japan"
-categories: ["Code"]
+categories: ["Code", "golang"]
 comments: true
 ---
 
