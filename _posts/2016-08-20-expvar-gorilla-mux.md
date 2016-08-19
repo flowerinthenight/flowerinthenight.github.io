@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to serve `expvar` when using `gorilla/mux`"
+title: "How to serve expvar when using gorilla/mux"
 location: "Japan"
 categories: ["Code", "golang"]
 comments: true
