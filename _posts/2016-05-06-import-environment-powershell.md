@@ -6,7 +6,7 @@ categories: ["Code"]
 comments: true
 ---
 
-A couple of days ago, I was working on a powershell-based script for mstests automation and I needed to call `vsdevcmd.bat` from Visual Studios tools folder.
+A couple of days ago, I was working on a powershell-based script for mstest automation and I needed to call `vsdevcmd.bat` from Visual Studio's tools folder.
 
 {% highlight powershell %}
 function Invoke-Environment([Parameter(Mandatory=1)][string]$Command, [switch]$Output, [switch]$Force)
