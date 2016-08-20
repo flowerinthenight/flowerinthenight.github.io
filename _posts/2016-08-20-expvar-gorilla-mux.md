@@ -45,7 +45,7 @@ http://localhost:8000
 {% endhighlight %}
 
 
-### Access expvars
+### Access expvar information
 
 {% highlight shell %}
 http://localhost:8000/debug/vars
