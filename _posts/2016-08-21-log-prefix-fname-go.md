@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Add function name prefix to log.Println in Go (golang)"
+title: "Add function name prefix to log.Println in Go"
 location: "Japan"
 categories: ["Code", "golang"]
 comments: true
