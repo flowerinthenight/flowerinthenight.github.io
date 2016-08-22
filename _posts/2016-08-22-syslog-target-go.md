@@ -34,10 +34,10 @@ func main() {
 
     log.Println("Hello world!")
 }
-% endhighlight %}
+{% endhighlight %}
 
 To view syslogs
 
 {% highlight shell %}
 tail -f /var/log/syslog
-% endhighlight %}
+{% endhighlight %}
