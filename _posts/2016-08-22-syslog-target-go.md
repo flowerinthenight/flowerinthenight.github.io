@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redirect all logs to syslog in Go (golang)"
+title: "Syslog as target in Go logs"
 location: "Japan"
 categories: ["Code", "golang"]
 comments: true
@@ -34,4 +34,10 @@ func main() {
 
     log.Println("Hello world!")
 }
+% endhighlight %}
+
+To view syslogs
+
+{% highlight shell %}
+tail -f /var/log/syslog
 % endhighlight %}
