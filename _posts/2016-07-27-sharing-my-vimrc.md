@@ -227,3 +227,7 @@ nnoremap <leader>hn :set nohlsearch<CR>
 nnoremap <leader>dt :windo diffthis<CR>
 nnoremap <leader>do :windo diffoff!<CR>
 {% endhighlight %}
+
+### Update (2016/08/24)
+
+Updated `vimrc` can be viewed [here](https://github.com/flowerinthenight/vim).
