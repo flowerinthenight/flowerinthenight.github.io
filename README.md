@@ -37,6 +37,6 @@ Host using local server:
 bundle exec jekyll serve --host 0.0.0.0 --port [port]
 ```
 
-# Licence
+# License
 
 [The MIT License](./LICENSE.md)
