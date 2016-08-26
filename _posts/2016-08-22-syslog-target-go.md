@@ -10,7 +10,7 @@ For personal reference:
 
 {% gist 29d147a50242198f082fd33f7d24677c %}
 
-To view syslogs in realtime
+To view syslog in realtime
 
 {% highlight shell %}
 tail -f /var/log/syslog
