@@ -8,26 +8,4 @@ comments: true
 
 For personal reference:
 
-{% highlight go %}
-package main
-
-import (
-    "fmt"
-    "log"
-    "regexp"
-    "runtime"
-)
-
-func traceln(v ...interface{}) {
-    pc, _, _, _ := runtime.Caller(1)
-    fn := runtime.FuncForPC(pc)
-    fno := regexp.MustCompile(`^.*\.(.*)$`)
-    fnName := fno.ReplaceAllString(fn.Name(), "$1")
-    m := fmt.Sprintln(v...)
-    log.Println("["+fnName+"]", m)
-}
-
-func main() {
-    traceln("Hello world!", 100, true, nil)
-}
-{% endhighlight %}
+{% gist 8da2984e90dd4a3a26ff645e6a37f275 %}
