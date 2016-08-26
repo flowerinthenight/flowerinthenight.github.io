@@ -8,7 +8,7 @@ comments: true
 
 For personal reference:
 
-{% gist 93a7ce30b0e74e05043cbd11f102e06e %}
+{% gist 29d147a50242198f082fd33f7d24677c %}
 
 To view syslogs in realtime
 
