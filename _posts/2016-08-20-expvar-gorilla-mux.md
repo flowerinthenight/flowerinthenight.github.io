@@ -8,35 +8,7 @@ comments: true
 
 For personal reference:
 
-{% highlight go %}
-package main
-
-import (
-    "expvar"
-    "log"
-    "net/http"
-
-    "github.com/gorilla/mux"
-)
-
-var counter *expvar.Int
-
-func init() {
-    counter = expvar.NewInt("counter")
-}
-
-func rootHandler(w http.ResponseWriter, r *http.Request) {
-    w.Write([]byte("Hello world!\n"))
-    counter.Add(1)
-}
-
-func main() {
-    r := mux.NewRouter()
-    r.HandleFunc("/", rootHandler)
-    r.Handle("/debug/vars", http.DefaultServeMux)
-    log.Fatal(http.ListenAndServe(":8000", r))
-}
-{% endhighlight %}
+{% gist b6e639978dc2c21042ccea526700f214 %}
 
 ### Access root
 
