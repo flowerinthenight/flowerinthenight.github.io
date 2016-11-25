@@ -86,6 +86,20 @@ Or if `difftool` is configured
 git difftool ..<target-branch> <path-to-file>
 {% endhighlight %}
 
+### Rebase/squash all branch commits
+
+{% highlight shell %}
+git checkout -b new-branch
+modify...
+commit...
+...
+git rebase -i master
+(sometimes, I branch out of master for a clean branch and do a git rebase -i clean-branch)
+git checkout master
+git rebase new-branch
+(delete clean-branch)
+{% endhighlight %}
+
 ### Custom format for log
 
 Add to global `.gitconfig` using `git config --global alias.logp "..."`
