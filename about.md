@@ -26,6 +26,7 @@ BS in Computer Engineering, 2000-2005
 ## Contact
 
 Email: [flowerinthenight@outlook.com]
+
 [flowerinthenight@outlook.com]: mailto:flowerinthenight@outlook.com
 
 ## Bookshelf
