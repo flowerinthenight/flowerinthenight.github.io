@@ -11,11 +11,11 @@
   #     - subtitle: "Item 2"
   #       subhref: "/misc/item-2/"
 
+- title: "Bookshelf"
+  href: "/bookshelf/"
+  
 - title: "About"
   href: "/about/"
 
 - title: "Disclaimer"
   href: "/disclaimer/"
-
-- title: "Bookshelf"
-  href: "/bookshelf/"
