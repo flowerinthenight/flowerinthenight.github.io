@@ -6,16 +6,29 @@ permalink: /about/
 
 {% include image.html url="../images/photo.jpg" caption="" width="300px" caption="That's me on the right :)" max_width="300px" align="right" %}
 
-Hi. My name is Chew. I'm a Software Engineer working for Lenovo, Japan. I do mostly Windows driver code, libraries, frameworks, and embedded stuff. Nothing special really. Just your average coder. And I have been doing this for eleven (or so) years now.
+Hi. My name is Chew and welcome to my blog. Here, you will find mostly uninteresting tech howtos and some random bits and bobs about my uninteresting life as well. If you want a dose of uninterestingness in your overwhelmingly superb life, then browse away!
 
-Welcome to my blog, by the way. Here, you will find mostly uninteresting tech howtos and some random bits and bobs about my uninteresting life as well. If you want a dose of uninterestingness in your overwhelmingly superb life, then browse away!
+## Me outside tech
 
-Lastly, why Flowerinthenight? Good question. If you are thinking about Flowerinthenight, the princess from Diana Wynne Jones' [Castle In The Air](https://en.wikipedia.org/wiki/Castle_in_the_Air_(novel)), then you are right. Congratulations! Anyway, it goes without saying that she is one of my favorite book characters of all time. Seriously, I can't think of any other princess with a name as fantastic as hers.
+I live in Japan with my wife. I love reading, especially [high fantasy](https://en.wikipedia.org/wiki/High_fantasy) with very interesting magic system. I also like music. I play a couple of instruments (bass, guitar, piano, and drums) although I'm not very good at any of them.
+
+Also, why Flowerinthenight? Good question. If you are thinking about Flowerinthenight, the princess from Diana Wynne Jones' [Castle In The Air](https://en.wikipedia.org/wiki/Castle_in_the_Air_(novel)), then you are right. Congratulations! Anyway, it goes without saying that she is one of my favorite book characters of all time. Seriously, I can't think of any other princess with a name as fantastic as hers.
+
+## Work history
+
+* 2016-present: [TeraRecon, Inc.](http://www.terarecon.com/)
+* 2008-2016: [Lenovo, Japan](http://www.lenovo.com/jp/ja/)
+
+## Education
+
+BS in Computer Engineering, 2000-2005
 
 ## Contact
 
-Email: [chew@ulimit.co]
+Email: [flowerinthenight@outlook.com]
 
+## Bookshelf
 
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chew@ulimit.co]: mailto:chew@ulimit.co
+TBD
+
+[chew@ulimit.co]: mailto:flowerinthenight@outlook.com
