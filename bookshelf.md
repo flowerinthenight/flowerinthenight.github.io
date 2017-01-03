@@ -4,7 +4,7 @@ title: Bookshelf
 permalink: /bookshelf/
 ---
 
-These are the books I've read so far. List is updated from time to time. If you have any recommendations, please tell me.
+These are the books I've read so far. If you have any recommendations, please leave a comment in the comment section below.
 
 * The Seventh Tower
   * The Fall
