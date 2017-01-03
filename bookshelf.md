@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: bookshelf
 title: Bookshelf
 permalink: /bookshelf/
 ---
