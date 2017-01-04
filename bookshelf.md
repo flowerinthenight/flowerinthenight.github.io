@@ -8,6 +8,7 @@ These are the books I've read so far. If you have any recommendations, please le
 
 Current: **Goldenhand**
 
+* Charlie and the Chocolate Factory
 * The BFG
 * Matilda
 * The Seventh Tower
