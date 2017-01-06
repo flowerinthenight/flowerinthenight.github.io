@@ -154,6 +154,7 @@ Current: **Goldenhand**
   * Harry Potter and the Order of the Phoenix
   * Harry Potter and the Half-blood Prince
   * Harry Potter and the Deathly Hallows
+* The Da Vinci Code
 * Le Petit Prince
 * Classics
   * The Iliad
