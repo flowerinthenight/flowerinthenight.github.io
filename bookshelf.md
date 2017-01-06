@@ -6,7 +6,7 @@ permalink: /bookshelf/
 
 These are the books I've read so far. If you have any recommendations, please leave a comment in the comment section below. I'll be updating this list from time to time.
 
-Current: **Goldenhand**
+Current: **not yet**
 
 * Charlie and the Chocolate Factory
 * The BFG
