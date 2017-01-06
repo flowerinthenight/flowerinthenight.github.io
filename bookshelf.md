@@ -68,6 +68,7 @@ Current: **Goldenhand**
   * Abhorsen
   * Nicholas Sayre & the Creature in the Case
   * Clariel
+  * Goldenhand
 * Warbreaker
 * The Stormlight Archive
   * The Way of Kings
