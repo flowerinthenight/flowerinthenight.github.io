@@ -6,8 +6,9 @@ permalink: /bookshelf/
 
 These are the books I've read so far. If you have any recommendations, please leave a comment in the comment section below. I'll be updating this list from time to time.
 
-Current: **not yet**
+Current: **Deadhouse Gates**
 
+* Gardens of the Moon
 * Charlie and the Chocolate Factory
 * The BFG
 * Matilda
