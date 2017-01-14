@@ -8,7 +8,8 @@ These are the books I've read so far. If you have any recommendations, please le
 
 Current: **Deadhouse Gates**
 
-* Gardens of the Moon
+* The Malazan Book of the Fallen
+  * Gardens of the Moon
 * Charlie and the Chocolate Factory
 * The BFG
 * Matilda
