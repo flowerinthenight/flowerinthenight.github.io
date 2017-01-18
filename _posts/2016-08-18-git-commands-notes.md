@@ -105,5 +105,5 @@ git rebase new-branch
 Add to global `.gitconfig` using `git config --global alias.logp "..."`
 
 {% highlight shell %}
-git log --pretty=format:'%Cred%h %C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)[%an]%Creset'
+git log --pretty=format:'%Cred%h %C(yellow)%d%Creset %s %Cgreen(%cr|%ci) %C(bold blue)[%an]%Creset'
 {% endhighlight %}
