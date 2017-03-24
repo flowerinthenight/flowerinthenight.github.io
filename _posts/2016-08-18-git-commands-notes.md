@@ -6,6 +6,8 @@ categories: ["Code"]
 comments: true
 ---
 
+Update 2017/03/24: Transferred to a separate repository [here](https://github.com/flowerinthenight/git-cheatsheet).
+
 For personal reference:
 
 ### Reset a file
