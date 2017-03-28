@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simple Innosetup Installation Script"
+title: "Simple Innosetup installation script"
 location: "Japan"
 categories: ["Installer", "Pascal"]
 comments: true
