@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New 'Bookshelf' Page"
+title: "New 'Bookshelf' page"
 location: "Japan"
 categories: ["Books"]
 comments: true
