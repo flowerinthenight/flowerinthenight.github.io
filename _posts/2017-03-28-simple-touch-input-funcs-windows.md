@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simple Touch/Swipe Input Function in Windows"
+title: "Simple touch/swipe input function in Windows"
 location: "Japan"
 categories: ["C++"]
 comments: true
