@@ -25,6 +25,6 @@ BS in Computer Engineering, 2000-2005
 
 ## Contact
 
-Email: [flowerinthenight@outlook.com]
+Email: [cesmero@flowerinthenight.com]
 
 [cesmero@flowerinthenight.com]: mailto:cesmero@flowerinthenight.com
