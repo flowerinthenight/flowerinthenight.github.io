@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simple touch/swipe input function in Windows"
+title: "Using APC as FIFO queue in Windows"
 location: "Japan"
 categories: ["C++"]
 comments: true
@@ -8,6 +8,6 @@ comments: true
 
 For self reference:
 
-Simulate a touch input down, drag, up programmatically.
+In this way, we can implement a FIFO queue without using explicit locking/synchronization for enqueueing/dequeueing.
 
-{% gist bd264001034db093413a0bb233760588 %}
+{% gist 48d81f079d64dabbad7fa80928159461 %}
