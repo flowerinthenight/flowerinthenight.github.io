@@ -102,6 +102,18 @@ git rebase new-branch
 (delete clean-branch)
 {% endhighlight %}
 
+### Combine all branch commits to one before merging to master (sort of like the one above)
+
+{% highlight shell %}
+git checkout master
+git checkout -b clean
+git merge --squash branch_to_merge_to_one_commit
+git commit
+(add commit message)
+git checkout master
+git merge clean
+{% endhighlight %}
+
 ### Custom format for log
 
 Add to global `.gitconfig` using `git config --global alias.logp "..."`
