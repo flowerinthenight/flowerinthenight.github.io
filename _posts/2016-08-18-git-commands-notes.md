@@ -12,9 +12,9 @@ For personal reference:
 
 ### Reset a file
 
-{% highlight shell %}
+```
 git checkout HEAD -- my-file.txt
-{% endhighlight %}
+```
 
 ### Delete last commit
 
