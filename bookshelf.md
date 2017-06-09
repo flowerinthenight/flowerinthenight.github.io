@@ -6,11 +6,12 @@ permalink: /bookshelf/
 
 These are the books I've read so far. If you have any recommendations, please leave a comment in the comment section below. I'll be updating this list from time to time.
 
-Current: **Memories of Ice**
+Current: **House of Chains**
 
 * The Malazan Book of the Fallen
   * Gardens of the Moon
   * Deadhouse Gates
+  * Memories of Ice
 * Charlie and the Chocolate Factory
 * The BFG
 * Matilda
