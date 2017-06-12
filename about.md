@@ -16,7 +16,8 @@ Also, why Flowerinthenight? Good question. If you are thinking about Flowerinthe
 
 ## Work history
 
-* 2016-present: [TeraRecon, Inc.](http://www.terarecon.com/)
+* 2017-present: [Mobingi](https://mobingi.co.jp/)
+* 2016-2017: [TeraRecon, Inc.](http://www.terarecon.com/)
 * 2008-2016: [Lenovo, Japan](http://www.lenovo.com/jp/ja/)
 
 ## Education
