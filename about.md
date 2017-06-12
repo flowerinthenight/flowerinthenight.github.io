@@ -16,9 +16,18 @@ Also, why Flowerinthenight? Good question. If you are thinking about Flowerinthe
 
 ## Work history
 
-* 2017-present: [Mobingi](https://mobingi.co.jp/)
+* 2017-present: [Mobingi, Japan](https://mobingi.co.jp/)
 * 2016-2017: [TeraRecon, Inc.](http://www.terarecon.com/)
+  * Image processing, rendering (C#, C++)
+  * Microservices (.NET Core, Service Fabric)
+  * CI/CD (GitLab, on-premise)
+  * Front-end (Angular, JS, TS)
 * 2008-2016: [Lenovo, Japan](http://www.lenovo.com/jp/ja/)
+  * Device driver development (WDM, KMDF, UMDF, Linux)
+  * BIOS development (C, x86 ASM)
+  * Video, camera, audio related development (DirectShow, Media Foundation, OpenCV, DirectX)
+  * Windows development (Win32, COM, .NET, UWP)
+  * Android development (framework level, JNI, C++)
 
 ## Education
 
