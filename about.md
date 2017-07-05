@@ -18,7 +18,7 @@ Also, why Flowerinthenight? Good question. If you are thinking about Flowerinthe
 
 * 2017-present: [Mobingi, Japan](https://mobingi.co.jp/)
 * 2016-2017: [TeraRecon, Inc.](http://www.terarecon.com/)
-  * Image processing, 2D/3D rendering (C#, C++, DICOM)
+  * Image processing, 2D/3D rendering (C#, C, C++, DICOM)
   * Microservices (.NET Core, Service Fabric, Go)
   * Front-end (Angular, JS, TS)
 * 2008-2016: [Lenovo, Japan](http://www.lenovo.com/jp/ja/)
