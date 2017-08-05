@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Wrapper for amqp library for RabbitMQ"
+title: "From GitHub Page to Netlify"
 location: "Japan"
-categories: ["Go"]
+categories: ["website"]
 comments: true
 ---
 
-I uploaded a simple wrapper to [streadway/amqp](https://github.com/streadway/amqp) library for RabbitMQ with support for auto reconnections. This is a simplified version of what I'm using in production.
+As of this writing, GitHub Pages still doesn't support HTTPS for custom domains. Last week I came across [Netlify](https://www.netlify.com/github-pages-vs-netlify/) being able to serve GitHub Pages as is with HTTPS support even with custom domains, I gave it a go. And it worked. If you're in the same boat as me (using GH-Pages with custom domains), give [Netlify](https://www.netlify.com/) a go. They have a free tier, simple instructions, friendly UI, and most of all, supports HTTPS via [Let's Encrypt](https://letsencrypt.org/).
 
-[Link to GitHub](https://github.com/flowerinthenight/rmq)
+Note: I am not affiliated with Netlify in any way, whatsoever.
