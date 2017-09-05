@@ -6,4 +6,6 @@ categories: ["Golang, Go"]
 comments: true
 ---
 
-TBD
+For self reference:
+
+{% gist caa8ae4a0112f25eeabb67d0fbd837dd %}
