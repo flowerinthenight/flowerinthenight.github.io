@@ -16,7 +16,7 @@ Next, let's create a Docker image (Windows) using the Dockerfile below.
 
 {% gist 9935cfaf68d8de5b5da2d5c4b15b8d85 %}
 
-```bash
+```
 # assuming the code above is saved in a directory called 'demoapp'
 $ docker build -t demoapp .
 ```
@@ -27,13 +27,13 @@ To use mftrace, we need a config file.
 
 Open a command prompt (or Powershell) and run the following command.
 
-```bash
+```
 $ mftrace.exe -c config.xml
 ```
 
 Then open another command prompt (or Powershell) window and run the Docker image.
 
-```bash
+```
 $ docker run -d --log-driver=etwlogs --name demoapp demoapp:latest
 ```
 
