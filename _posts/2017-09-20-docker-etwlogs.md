@@ -16,10 +16,10 @@ Next, let's create a Docker image (Windows) using the Dockerfile below.
 
 {% gist 9935cfaf68d8de5b5da2d5c4b15b8d85 %}
 
-```
+{% highlight shell %}
 # assuming the code above is saved in a directory called 'demoapp'
 $ docker build -t demoapp .
-```
+{% endhighlight %}
 
 To use mftrace, we need a config file.
 
@@ -27,15 +27,15 @@ To use mftrace, we need a config file.
 
 Open a command prompt (or Powershell) and run the following command.
 
-```
+{% highlight shell %}
 $ mftrace.exe -c config.xml
-```
+{% endhighlight %}
 
 Then open another command prompt (or Powershell) window and run the Docker image.
 
-```
+{% highlight shell %}
 $ docker run -d --log-driver=etwlogs --name demoapp demoapp:latest
-```
+{% endhighlight %}
 
 You should be able to view the application logs in the mftrace window.
 
