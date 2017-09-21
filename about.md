@@ -17,6 +17,8 @@ Also, why Flowerinthenight? Good question. If you are thinking about Flowerinthe
 ## Work history
 
 * 2017-present: [Mobingi, Japan](https://mobingi.co.jp/)
+  * Cloud infrastructure, DevOps
+  * Go (golang), backend services
 * 2016-2017: [TeraRecon, Inc.](http://www.terarecon.com/)
   * Image processing, 2D/3D rendering (C#, C, C++, DICOM)
   * Microservices (.NET Core, Service Fabric, Go)
