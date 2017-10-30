@@ -5,7 +5,7 @@ categories: ["Go", "nativestore"]
 comments: true
 ---
 
-This post is to show a simple way of using Docker's [credential helper package](https://github.com/docker/docker-credential-helpers) to utilize the system's native credential store as storage for your Golang-based CLI applications' login credentials. This means Keychain for OSX, `wincred` for Windows, and [`pass`](https://www.passwordstore.org/) for Linux. We use [`pass`](https://specifications.freedesktop.org/secret-service/) here since [`secretservice`](https://specifications.freedesktop.org/secret-service/), although supported, doesn't work out of the box in headless servers.
+This post is to show a simple way of using Docker's [credential helper package](https://github.com/docker/docker-credential-helpers) to utilize the system's native credential store as storage for your Golang-based CLI applications' login credentials. This means Keychain for OSX, `wincred` for Windows, and [`pass`](https://www.passwordstore.org/) for Linux. We use [`pass`](https://www.passwordstore.org/) here since [`secretservice`](https://specifications.freedesktop.org/secret-service/), although supported, doesn't work out of the box in headless servers.
 
 Here's a simple implementation of our `Set`, `Get`, and `Del` functions.
 
