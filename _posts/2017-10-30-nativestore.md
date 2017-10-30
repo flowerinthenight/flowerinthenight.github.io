@@ -46,3 +46,5 @@ $ pass init 5486B0F6
 Here's an example on how to use our nativestore functions.
 
 <script charset="UTF-8" src="http://gist-it.appspot.com/github.com/mobingilabs/mobingi-sdk-go/blob/master/pkg/nativestore/nativestore_test.go?footer=minimal"></script>
+
+_GitHub code snippets are referenced using http://gist-it.appspot.com/ (not https), so your browser may block it._
