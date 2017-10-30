@@ -9,15 +9,15 @@ This post is to show a simple way of using Docker's [credential helper package](
 
 Here's a simple implementation of our `Set`, `Get`, and `Del` functions.
 
-<script charset="UTF-8" src="http://gist-it.appspot.com/github.com/mobingilabs/mobingi-sdk-go/blob/master/pkg/nativestore/nativestore.go?footer=minimal"></script>
+<script charset="UTF-8" src="https://gist-it.appspot.com/github.com/mobingilabs/mobingi-sdk-go/blob/master/pkg/nativestore/nativestore.go?footer=minimal"></script>
 
 Then we create our `_darwin.go`, `_linux.go`, and `_windows.go` files for OS specific implementations.
 
-<script charset="UTF-8" src="http://gist-it.appspot.com/github.com/mobingilabs/mobingi-sdk-go/blob/master/pkg/nativestore/nativestore_darwin.go?footer=minimal"></script>
+<script charset="UTF-8" src="https://gist-it.appspot.com/github.com/mobingilabs/mobingi-sdk-go/blob/master/pkg/nativestore/nativestore_darwin.go?footer=minimal"></script>
 
-<script charset="UTF-8" src="http://gist-it.appspot.com/github.com/mobingilabs/mobingi-sdk-go/blob/master/pkg/nativestore/nativestore_windows.go?footer=minimal"></script>
+<script charset="UTF-8" src="https://gist-it.appspot.com/github.com/mobingilabs/mobingi-sdk-go/blob/master/pkg/nativestore/nativestore_windows.go?footer=minimal"></script>
 
-<script charset="UTF-8" src="http://gist-it.appspot.com/github.com/mobingilabs/mobingi-sdk-go/blob/master/pkg/nativestore/nativestore_linux.go?footer=minimal"></script>
+<script charset="UTF-8" src="https://gist-it.appspot.com/github.com/mobingilabs/mobingi-sdk-go/blob/master/pkg/nativestore/nativestore_linux.go?footer=minimal"></script>
 
 Here's a quickstart guide to setup [`pass`](https://www.passwordstore.org/) in Ubuntu systems.
 
@@ -45,6 +45,6 @@ $ pass init 5486B0F6
 
 Here's an example on how to use our nativestore functions.
 
-<script charset="UTF-8" src="http://gist-it.appspot.com/github.com/mobingilabs/mobingi-sdk-go/blob/master/pkg/nativestore/nativestore_test.go?footer=minimal"></script>
+<script charset="UTF-8" src="https://gist-it.appspot.com/github.com/mobingilabs/mobingi-sdk-go/blob/master/pkg/nativestore/nativestore_test.go?footer=minimal"></script>
 
-_GitHub code snippets are referenced using [http://gist-it.appspot.com/](http://gist-it.appspot.com/) (not https), so your browser may block it. You can refer to [this package](https://github.com/mobingilabs/mobingi-sdk-go/tree/master/pkg/nativestore) instead._
+_GitHub code snippets are referenced using [https://gist-it.appspot.com/](https://gist-it.appspot.com/) (not https), so your browser may block it. You can refer to [this package](https://github.com/mobingilabs/mobingi-sdk-go/tree/master/pkg/nativestore) instead._
