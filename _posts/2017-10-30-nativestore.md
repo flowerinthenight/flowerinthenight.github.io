@@ -47,4 +47,4 @@ Here's an example on how to use our nativestore functions.
 
 <script charset="UTF-8" src="http://gist-it.appspot.com/github.com/mobingilabs/mobingi-sdk-go/blob/master/pkg/nativestore/nativestore_test.go?footer=minimal"></script>
 
-_GitHub code snippets are referenced using http://gist-it.appspot.com/ (not https), so your browser may block it._
+_GitHub code snippets are referenced using [http://gist-it.appspot.com/](http://gist-it.appspot.com/) (not https), so your browser may block it. You can refer to [this package](https://github.com/mobingilabs/mobingi-sdk-go/tree/master/pkg/nativestore) instead._
