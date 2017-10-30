@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Using Docker's ETW log driver in Windows"
+title: "Using OS specific stores for storing CLI credentials"
 categories: ["Go", "nativestore"]
 comments: true
 ---
