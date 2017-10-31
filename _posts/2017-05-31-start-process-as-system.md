@@ -2,7 +2,7 @@
 layout: post
 title: "Start process as system using CreateProcessAsUser"
 location: "Japan"
-categories: ["C++", "Windows"]
+tags: [c++, windows, process]
 comments: true
 ---
 
