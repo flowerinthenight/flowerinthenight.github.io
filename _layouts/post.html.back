@@ -10,6 +10,13 @@ layout: default
     <p class="post-meta">Description: {{ page.description }}</p>
     {% endif %}
 
+    {% if page.categories %}
+    <p class="post-meta">Categories:
+    {% for cat in page.categories %}
+    <!-- <a href="{{/categories/#{{ cat }} | prepend: site.baseurl}}" title="{{ cat }}">{{ cat }}</a>&nbsp; -->
+    {{ cat }}&nbsp;
+    {% endfor %}
+
     </p>
     {% endif %}
     </header>
