@@ -2,7 +2,7 @@
 layout: post
 title: "Using Docker's ETW log driver in Windows"
 location: "Japan"
-categories: ["Docker, Go, Windows, ETW"]
+tags: [docker, go, windows, etw]
 comments: true
 ---
 
