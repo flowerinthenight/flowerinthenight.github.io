@@ -2,7 +2,7 @@
 layout: post
 title: "New 'Bookshelf' page"
 location: "Japan"
-categories: ["Books"]
+categories: [books, reading]
 comments: true
 ---
 
