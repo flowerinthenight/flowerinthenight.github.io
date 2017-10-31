@@ -2,7 +2,7 @@
 layout: post
 title: "ATL service base code"
 location: "Japan"
-categories: ["Code", "C++"]
+tags: [c++, windows, atl, service]
 comments: true
 ---
 
