@@ -2,7 +2,7 @@
 layout: post
 title: "JSON prettifier function in Go"
 location: "Japan"
-tags: [go]
+tags: [go, json, prettify]
 comments: true
 ---
 
