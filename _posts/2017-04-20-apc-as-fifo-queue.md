@@ -2,7 +2,7 @@
 layout: post
 title: "Using APC as FIFO queue in Windows"
 location: "Japan"
-categories: ["C++"]
+tags: [c++, fifo, queue]
 comments: true
 ---
 
