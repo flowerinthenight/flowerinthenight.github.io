@@ -2,7 +2,7 @@
 layout: post
 title: "From GitHub Pages to Netlify"
 location: "Japan"
-categories: ["website"]
+tags: [website, netlify, https]
 comments: true
 ---
 
