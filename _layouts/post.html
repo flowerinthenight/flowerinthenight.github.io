@@ -10,6 +10,10 @@ layout: default
     <p class="post-meta">Description: {{ page.description }}</p>
     {% endif %}
 
+    {% for tag in tags %}
+        <a href="#{{ tag | slugify }}"> {{ tag }} </a>
+    {% endfor %}
+
     </header>
 
     {{ content }}
