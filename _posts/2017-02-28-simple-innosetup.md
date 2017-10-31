@@ -2,7 +2,7 @@
 layout: post
 title: "Simple Innosetup installation script"
 location: "Japan"
-categories: ["Installer", "Pascal"]
+tags: [innosetup, installer, pascal]
 comments: true
 ---
 
