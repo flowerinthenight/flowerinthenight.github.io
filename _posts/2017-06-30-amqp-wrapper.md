@@ -2,7 +2,7 @@
 layout: post
 title: "Wrapper for amqp library for RabbitMQ"
 location: "Japan"
-categories: ["Go"]
+tags: [go, amqp, rabbitmq]
 comments: true
 ---
 
