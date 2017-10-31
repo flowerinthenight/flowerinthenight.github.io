@@ -2,7 +2,7 @@
 layout: post
 title: "Using OS specific stores for storing CLI credentials for golang apps"
 location: "Japan"
-tags: [go, nativestore]
+tags: [go, nativestore, keychain, wincred, pass]
 comments: true
 ---
 
