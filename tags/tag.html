@@ -26,7 +26,7 @@ title: Tags
 <div class="posts">
     <p>
     {% for tag in tags %}
-        <a href="#{{ tag | slugify }}"><code><nobr>{{ tag_name }}</nobr></code></a>&nbsp;
+        <a href="#{{ tag | slugify }}"><code><nobr>{{ tag }}</nobr></code></a>&nbsp;
     {% endfor %}
 
     {% for tag in tags %}
