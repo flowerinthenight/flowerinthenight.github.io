@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Using OS specific stores for storing CLI credentials for golang apps"
+location: "Japan"
 categories: ["Go", "nativestore"]
 comments: true
 ---
