@@ -21,13 +21,13 @@ Also, why Flowerinthenight? Good question. If you are thinking about Flowerinthe
   * Go (golang), Rust, backend services
 * 2016-2017: [TeraRecon, Inc.](http://www.terarecon.com/)
   * Image processing, 2D/3D rendering (C#, C, C++, DICOM)
-  * Microservices (.NET Core, Service Fabric, Go)
-  * Front-end (Angular, JS, TS)
+  * Microservices (Go (golang), .NET Core, Service Fabric)
+  * Front-end (Angular, JavaScript, TypeScript)
 * 2008-2016: [Lenovo, Japan](http://www.lenovo.com/jp/ja/)
   * Device driver development (WDM, KMDF, UMDF, Linux)
   * BIOS development (C, x86 ASM)
   * Video, camera, audio related development (DirectShow, Media Foundation, OpenCV, DirectX)
-  * Windows development (Win32, COM, .NET, UWP)
+  * Windows development (Win32, MFC, COM, .NET, UWP)
   * Android development (framework level, JNI, C++)
 
 ## Education
