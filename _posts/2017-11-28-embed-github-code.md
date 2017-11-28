@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Embed code from GitHub to GitHub Pages blog like gist"
+title: "Embed code from GitHub to GitHub Pages blog like Gist"
 location: "Japan"
 tags: [gist-it, github-pages, jekyll]
 comments: true
