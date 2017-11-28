@@ -16,7 +16,7 @@ The `?footer=minimal` part is optional. It will look something like this:
 
 <script charset="UTF-8" src="https://gist-it.appspot.com/github.com/flowerinthenight/rusttrace/blob/master/src/main.rs?footer=minimal"></script>
 
-It can also embed just a code section based on line numbers. For example, to embed line 234 to line 257 of [this file](https://github.com/flowerinthenight/rmq/blob/master/rabbitmq.go), this snippet will do.
+It can also embed just a section of code based on line numbers. For example, to embed line 234 to line 257 of [this file](https://github.com/flowerinthenight/rmq/blob/master/rabbitmq.go), this snippet will do.
 
 {% highlight html %}
 <script charset="UTF-8" src="https://gist-it.appspot.com/github.com/flowerinthenight/rmq/blob/master/rabbitmq.go?slice=233:257&footer=minimal"></script>
