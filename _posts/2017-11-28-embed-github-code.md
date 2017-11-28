@@ -6,7 +6,7 @@ tags: [gist-it, github-pages, jekyll]
 comments: true
 ---
 
-I've found this [nifty little tool](https://gist-it.appspot.com/) that can embed codes directly from your GitHub repositories without using Gist. It's very easy to use. For example, if you want to embed, say, [this whole file](https://github.com/flowerinthenight/rmq/blob/master/rabbitmq.go), you only need to add this snippet somewhere in your post.md file.
+I've found this [nifty little tool](https://gist-it.appspot.com/) that can embed codes directly from your GitHub repositories without using Gist. It's very easy to use. For example, if you want to embed, say, [this whole file](https://github.com/flowerinthenight/rusttrace/blob/master/src/main.rs), you only need to add this snippet somewhere in your post.md file.
 
 {% highlight html %}
 <script charset="UTF-8" src="https://gist-it.appspot.com/github.com/flowerinthenight/rusttrace/blob/master/src/main.rs?footer=minimal"></script>
