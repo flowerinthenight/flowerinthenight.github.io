@@ -36,6 +36,6 @@ BS in Computer Engineering, 2000-2005
 
 ## Contact
 
-Email: [cesmero@flowerinthenight.com]
+Email: [chew.esmero@gmail.com]
 
 [chew.esmero@gmail.com]: mailto:chew.esmero@gmail.com
