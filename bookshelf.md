@@ -4,7 +4,7 @@ title: Bookshelf
 permalink: /bookshelf/
 ---
 
-These are the books I've read so far. If you have any recommendations, please leave a comment in the comment section below. I'll be updating this list from time to time.
+These are the books I've read so far. At least the ones I've remembered. If you have any recommendations, please leave a comment in the comment section below. I'll be updating this list from time to time.
 
 Current: **Bonehunters**
 
