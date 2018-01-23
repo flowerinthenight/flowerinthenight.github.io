@@ -36,6 +36,22 @@ BS in Computer Engineering, 2000-2005
 
 ## Contact
 
-Email: [chew.esmero@gmail.com]
+<div>
+{% if site.twitter_username %}
+<a href="https://twitter.com/{{ site.twitter_username }}">
+    <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+    </span>
+</a>
+{% endif %}
 
-[chew.esmero@gmail.com]: mailto:chew.esmero@gmail.com
+{% if site.github_username %}
+<a href="https://github.com/{{ site.github_username }}">
+    <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+    </span>
+</a>
+{% endif %}
+</div>

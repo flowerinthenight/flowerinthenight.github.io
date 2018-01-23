@@ -8,6 +8,9 @@ exclude: ["Makefile", "README.md"]
 url: "http://flowerinthenight.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
 
+twitter_username: flowerinthenyt
+github_username: flowerinthenight
+
 author:
     name:
     facebook:
