@@ -12,53 +12,53 @@ twitter_username: flowerinthenyt
 github_username: flowerinthenight
 
 author:
-    name:
-    facebook:
-    scholar:
+  name:
+  facebook:
+  scholar:
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 
 kramdown:
-    input: GFM
-    syntax_highlighter: rouge
+  input: GFM
+  syntax_highlighter: rouge
 
 # Settings for analytics helper
 # Set 'provider' to the analytics provider you want to use.
 # Set 'provider' to false to turn analytics off globally.
 #
 analytics:
-    provider: google
-    statcounter:
-        sc_project  :
-        sc_security :
-        sc_invisible: 1
-        sc_text     : 2
-    google:
-        tracking_id: 'UA-82334828-1'
-    getclicky:
-      site_id:
-    mixpanel:
-        token: ''
-    piwik:
-        baseURL: '' # Piwik installation address (without protocol)
-        idsite: ''  # the id of the site on Piwik
+  provider: google
+  statcounter:
+    sc_project  :
+    sc_security :
+    sc_invisible: 1
+    sc_text     : 2
+  google:
+    tracking_id: 'UA-82334828-1'
+  getclicky:
+    site_id:
+  mixpanel:
+    token: ''
+  piwik:
+    baseURL: '' # Piwik installation address (without protocol)
+    idsite: ''  # the id of the site on Piwik
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use.
 # Set 'provider' to false to turn commenting off globally.
 #
 comments:
-    provider: disqus
-    disqus:
-      short_name: flowerinthenight
-    livefyre:
-      site_id:
-    intensedebate:
-      account:
-    facebook:
-      appid:
-      num_posts: 5
-      width: 580
-      colorscheme: light
+  provider: disqus
+  disqus:
+    short_name: flowerinthenight
+  livefyre:
+    site_id:
+  intensedebate:
+    account:
+  facebook:
+    appid:
+    num_posts: 5
+    width: 580
+    colorscheme: light
