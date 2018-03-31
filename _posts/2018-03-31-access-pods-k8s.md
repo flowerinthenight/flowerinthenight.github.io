@@ -2,7 +2,7 @@
 layout: post
 title: "Accessing pods in Kubernetes"
 location: "Japan"
-tags: [kubectl, Kubernetes]
+tags: [kubectl, Kubernetes, ingress, port-forward, nginx]
 ---
 
 At [Mobingi](https://mobingi.com), when we are developing services that run on Kubernetes, we generally use [Minikube](https://github.com/kubernetes/minikube) or [Kubernetes in Docker for Mac](https://blog.docker.com/2018/01/docker-mac-kubernetes/). We also have a cluster that runs on [GKE](https://cloud.google.com/kubernetes-engine/) that we use for development. In this post, I will share how we access some of the services that are running on our development cluster.
