@@ -142,7 +142,7 @@ spec:
     app: serviceproxy
 {% endhighlight %}
 
-In this example, all services, mainly `svc1` and `svc2`, are running in the `default` namespace. Save this as service.yaml file and deploy:
+In this example, all services, mainly `svc1` and `svc2`, are running in the `default` namespace. Save this as service.yaml and deploy:
 
 {% highlight shell %}
 $ kubectl create -f service.yaml
@@ -175,7 +175,7 @@ Save this as ingress.yaml and deploy:
 $ kubectl create -f ingress.yaml
 {% endhighlight %}
 
-After everything is ready (Ingress provisioning takes some time), I should be able to access `svc1` through `https://development.mobingi.com/svc1/some-endpoint`, `svc2` through `https://development.mobingi.com/svc2/another-endpoint`, etc. Of course, you have to point your domain to your Ingress load balancer's IP address which you can see using the following command:
+After everything is ready (Ingress provisioning takes some time), you should be able to access `svc1` through `https://development.mobingi.com/svc1/some-endpoint`, `svc2` through `https://development.mobingi.com/svc2/another-endpoint`, etc. Of course, you have to point your domain to your Ingress load balancer's IP address which you can see using the following command:
 
 {% highlight shell %}
 $ kubectl get ingress serviceproxy-ingress
