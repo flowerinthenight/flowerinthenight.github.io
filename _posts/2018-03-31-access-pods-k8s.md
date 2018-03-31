@@ -175,4 +175,12 @@ Save this as ingress.yaml and deploy:
 $ kubectl create -f ingress.yaml
 {% endhighlight %}
 
+After everything is ready (Ingress provisioning takes some time), I should be able to access `svc1` through `https://development.mobingi.com/svc1/some-endpoint`, `svc2` through `https://development.mobingi.com/svc2/another-endpoint`, etc. Of course, you have to point your domain to your Ingress load balancer's IP address which you can see using the following command:
+
+{% highlight shell %}
+$ kubectl get ingress serviceproxy-ingress
+NAME                   HOSTS                     ADDRESS          PORTS     AGE
+serviceproxy-ingress   development.mobingi.com   1.2.3.4          80, 443   91d
+{% endhighlight %}
+
 If you're wondering how to setup the TLS portion, you can refer to my previous [post](https://flowerinthenight.com/blog/2018/02/20/k8s-tls-digicert) about the very subject.
