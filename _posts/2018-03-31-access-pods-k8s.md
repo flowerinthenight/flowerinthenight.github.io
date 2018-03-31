@@ -142,7 +142,7 @@ spec:
     app: serviceproxy
 {% endhighlight %}
 
-In this example, all services, mainly `svc1`, `svc2`, and `apigateway` are running in the `default` namespace. Save this as service.yaml file and deploy:
+In this example, all services, mainly `svc1` and `svc2`, are running in the `default` namespace. Save this as service.yaml file and deploy:
 
 {% highlight shell %}
 $ kubectl create -f service.yaml
