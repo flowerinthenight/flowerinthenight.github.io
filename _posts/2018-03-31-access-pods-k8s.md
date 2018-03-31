@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Accessing pods in Kubernetes"
+title: "Accessing services in Kubernetes"
 location: "Japan"
 tags: [kubectl, Kubernetes, ingress, port-forward, nginx]
 ---
