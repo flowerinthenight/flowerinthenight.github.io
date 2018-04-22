@@ -16,7 +16,7 @@ Also, why Flowerinthenight? Good question. If you are thinking about Flowerinthe
 
 ## Work history
 
-* Senior Software Engineer, 2017-present: [Mobingi, Japan](https://mobingi.co.jp/)
+* Tech Lead, 2017-present: [Mobingi, Japan](https://mobingi.co.jp/)
   * Go, Microservices, DevOps, Docker, Kubernetes
   * AWS, Alicloud/SBCloud, GCP, Azure
 * Senior Software Engineer, 2016-2017: [TeraRecon, Inc.](http://www.terarecon.com/)
