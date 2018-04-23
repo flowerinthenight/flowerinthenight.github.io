@@ -18,7 +18,7 @@ Also, why Flowerinthenight? Good question. If you are thinking about Flowerinthe
 
 * Tech Lead, 2017-present: [Mobingi, Japan](https://mobingi.co.jp/)
   * Go, Microservices, DevOps, Docker, Kubernetes
-  * AWS, Alicloud/SBCloud, GCP, Azure
+  * AWS, GCP, Azure, AlibabaCloud/SBCloud
 * Senior Software Engineer, 2016-2017: [TeraRecon, Inc.](http://www.terarecon.com/)
   * Image processing, 2D/3D rendering (C#, C, C++, DICOM)
   * Microservices (Go, .NET Core, Service Fabric)
