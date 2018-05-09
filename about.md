@@ -16,14 +16,14 @@ Also, why Flowerinthenight? Good question. If you are thinking about Flowerinthe
 
 ## Work history
 
-* Tech Lead, 2017-present | [Mobingi, Japan](https://mobingi.co.jp/)
+* Tech Lead, 2017-present &#124; [Mobingi, Japan](https://mobingi.co.jp/)
   * Go, Microservices, DevOps, Docker, Kubernetes
   * AWS, GCP, Azure, AlibabaCloud/SBCloud
-* Senior Software Engineer, 2016-2017 | [TeraRecon, Inc.](http://www.terarecon.com/)
+* Senior Software Engineer, 2016-2017 &#124; [TeraRecon, Inc.](http://www.terarecon.com/)
   * Image processing, 2D/3D rendering (C#, C, C++, DICOM)
   * Microservices (Go, .NET Core, Service Fabric)
   * Front-end (Angular, JavaScript, TypeScript)
-* Software Engineer, 2008-2016 | [Lenovo, Japan](http://www.lenovo.com/jp/ja/)
+* Software Engineer, 2008-2016 &#124; [Lenovo, Japan](http://www.lenovo.com/jp/ja/)
   * Device driver development (WDM, KMDF, UMDF, Linux)
   * BIOS development (C, x86 ASM)
   * Video, camera, audio related development (DirectShow, Media Foundation, OpenCV, DirectX)
@@ -32,7 +32,7 @@ Also, why Flowerinthenight? Good question. If you are thinking about Flowerinthe
 
 ## Education
 
-BS in Computer Engineering | 2000-2005
+BS in Computer Engineering &#124; 2000-2005
 
 ## Contact
 
