@@ -6,7 +6,7 @@ permalink: /bookshelf/
 
 These are the books I've read so far. At least the ones I've remembered. If you have any recommendations, please reach out <a href="https://twitter.com/{{ site.twitter_username }}">@flowerinthenyt</a>. I'll be updating this list from time to time.
 
-Current: **Bonehunters**
+Current: **Reaper's Gale**
 
 * The Malazan Book of the Fallen
   * Gardens of the Moon
@@ -14,6 +14,7 @@ Current: **Bonehunters**
   * Memories of Ice
   * House of Chains
   * Midnight Tides
+  * The Bonehunters
 * Charlie and the Chocolate Factory
 * The BFG
 * Matilda
