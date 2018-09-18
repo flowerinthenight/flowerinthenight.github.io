@@ -43,3 +43,7 @@ I1129 13:49:34.166660    2138 main.go:28] echo (info): hello
 W1129 13:49:34.166718    2138 main.go:29] echo (warn): hello
 E1129 13:49:34.166722    2138 main.go:30] echo (error): hello
 {% endhighlight %}
+
+Here's another another example using subcommands.
+
+{% gist 447f983882720d817f3b92088f98aaa3 %}
