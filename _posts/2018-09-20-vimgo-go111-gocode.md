@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Autocompletion with gocode with vim-go in Go1.11"
+title: "Autocompletion with gocode and vim-go in Go1.11"
 location: "Japan"
 tags: [vim, vim-go, gocode, autocomplete]
 ---
