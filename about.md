@@ -29,6 +29,8 @@ Also, why Flowerinthenight? Good question. If you are thinking about Flowerinthe
   * Video, camera, audio related development (DirectShow, Media Foundation, OpenCV, DirectX)
   * Windows development (Win32, MFC, COM, .NET, UWP)
   * Android development (framework level, JNI, C++)
+  * Embedded systems
+* Others (mostly C/C++)...
 
 ## Education
 
