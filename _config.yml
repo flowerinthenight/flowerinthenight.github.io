@@ -10,6 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 twitter_username: flowerinthenyt
 github_username: flowerinthenight
+email_address: root@flowerinthenight.com
 
 author:
   name:
