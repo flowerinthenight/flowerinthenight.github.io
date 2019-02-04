@@ -40,6 +40,15 @@ BS in Computer Engineering &#124; 2000-2005
 ## Contact
 
 <div>
+{% if site.email_address %}
+<a href="mailto: {{ site.email_address }}">
+    <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+    </span>
+</a>
+{% endif %}
+
 {% if site.twitter_username %}
 <a href="https://twitter.com/{{ site.twitter_username }}">
     <span class="fa-stack fa-lg">
