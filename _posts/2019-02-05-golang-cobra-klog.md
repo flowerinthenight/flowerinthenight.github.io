@@ -40,7 +40,7 @@ $ ./cobraklog help
 Use klog together with cobra.
 
 Usage:
-  echo [command]
+  cobraklog [command]
 
 Available Commands:
   help        Help about any command
@@ -58,7 +58,7 @@ Flags:
       --vmodule moduleSpec               comma-separated list of pattern=N settings for file-filtered logging
   -h, --help                             help for echo
 
-Use "echo [command] --help" for more information about a command.
+Use "cobraklog [command] --help" for more information about a command.
 {% endhighlight %}
 
 {% highlight shell %}
@@ -67,7 +67,7 @@ $ ./cobraklog help run
 Run command.
 
 Usage:
-  echo run [flags]
+  cobraklog run [flags]
 
 Flags:
       --str string   string to print (default "hello world")
@@ -90,6 +90,6 @@ Global Flags:
 $ ./cobraklog run --logtostderr
 I0205 16:37:39.110849   13672 main.go:41] echo=hello world
 
-./echo run --logtostderr --str "hello alien world"
+$ ./cobraklog run --logtostderr --str "hello alien world"
 I0205 16:39:37.212187   13685 main.go:41] echo=hello alien world
 {% endhighlight %}
