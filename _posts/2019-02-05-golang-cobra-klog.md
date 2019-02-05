@@ -56,7 +56,7 @@ Flags:
       --stderrthreshold severity         logs at or above this threshold go to stderr (default 2)
   -v, --v Level                          log level for V logs
       --vmodule moduleSpec               comma-separated list of pattern=N settings for file-filtered logging
-  -h, --help                             help for echo
+  -h, --help                             help for cobraklog
 
 Use "cobraklog [command] --help" for more information about a command.
 {% endhighlight %}
