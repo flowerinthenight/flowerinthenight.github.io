@@ -19,7 +19,7 @@ Also, why Flowerinthenight? Good question. If you are thinking about Flowerinthe
 * Head of Engineering, 2017-present &#124; [Mobingi, Japan](https://mobingi.com)
   * Go, Microservices, DevOps, Docker, Kubernetes
   * AWS, GCP, Azure, AlibabaCloud/SBCloud
-  * Engineering management, recruitment, etc.
+  * Overall architecture, engineering management, recruitment, etc.
 * Senior Software Engineer, 2016-2017 &#124; [TeraRecon, Inc.](http://www.terarecon.com/)
   * Image processing, 2D/3D rendering (C#, C, C++, DICOM)
   * Microservices (Go, .NET Core, Service Fabric)
