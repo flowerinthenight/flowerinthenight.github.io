@@ -6,7 +6,8 @@ tags: [kubepfm, kubectl, k8s, kubernetes, port-forward]
 ---
 
 Updated 2019/02/20:
-- Support for namespaces (https://github.com/flowerinthenight/kubepfm/issues/1)
+
+- Support for namespaces [https://github.com/flowerinthenight/kubepfm/issues/1](https://github.com/flowerinthenight/kubepfm/issues/1)
 - Improved handling of input patterns
 
 ---
