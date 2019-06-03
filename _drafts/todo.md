@@ -5,4 +5,5 @@ location: "Japan"
 tags: [gcp, google, api, authentication, service-account]
 ---
 
-* CORS in nginx k8s, check waveawsbatchd
+* blog vim
+* homebrew go
