@@ -29,6 +29,10 @@ Also, why Flowerinthenight? Good question. If you are thinking about Flowerinthe
   * Embedded systems
 * Others (mostly C/C++)...
 
+## Spoken languages
+* English - proficient
+* Japanese - conversational
+
 ## Education
 
 BS in Computer Engineering &#124; 2000-2005
