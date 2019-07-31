@@ -9,7 +9,7 @@ For personal reference:
 
 #### a) Create your own homebrew tap
 
-Create a new GitHub public repository with a prefix `homebrew-`, i.e. `homebrew-tap`. This will house all the apps that we want to distribute via our tap. Users will install our apps using the following commands:
+Create a new GitHub public repository with a prefix `homebrew-`, i.e. `homebrew-tap`. This will house all the apps that you want to distribute via your tap. Users will install your apps using the following commands:
 
 {% highlight shell %}
 # No need to include the 'homebrew-' prefix
