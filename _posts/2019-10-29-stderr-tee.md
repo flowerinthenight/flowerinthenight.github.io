@@ -2,7 +2,7 @@
 layout: post
 title: "Output golang cmdline tools to stdout and file using tee"
 location: "Japan"
-tags: [stern, grep, k8s, logs]
+tags: [golang, tee, stderr, stdout]
 ---
 
 Some golang-based tools I've used (or even written) use the builtin `log` package that output logs to stderr by default. I also use the [tee](https://en.wikipedia.org/wiki/Tee_(command)) for piping console outputs to file for later viewing. This is the command I generally use:
