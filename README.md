@@ -37,3 +37,6 @@ Host using local server:
 ```
 $ bundle exec jekyll serve --host 0.0.0.0 --port [port]
 ```
+
+## Troubleshooting
+- If build for ruby2.3.1 fails, refer to [https://github.com/rbenv/ruby-build/wiki](https://github.com/rbenv/ruby-build/wiki).
