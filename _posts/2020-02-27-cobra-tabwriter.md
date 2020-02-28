@@ -13,7 +13,7 @@ The following code is a copy (not an exact copy) of one of the tools that I use 
 
 It will look something like this.
 
-{% highlight shell %}
+{% highlight plaintext %}
 Trigger a manual run, among other tools.
 
 Format for the --input flag:
