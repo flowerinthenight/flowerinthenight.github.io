@@ -5,7 +5,7 @@ location: "Japan"
 tags: [gcp, google, api, authentication, service-account]
 ---
 
-* tabwriter golang linkbatchd ref
+* role as auth for aws sdk
 * blog vim
 * emacs journey
   * vim user for 15yrs, but still uses arrow keys, trying emacs/spacemacs for about 3months now
