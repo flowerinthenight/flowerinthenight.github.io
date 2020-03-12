@@ -71,3 +71,6 @@ BS in Computer Engineering &#124; 2000-2005
 </a>
 {% endif %}
 </div>
+
+## [PGP public key](https://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0xc0c57f277201629c)
+<embed src="https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x3c2d2ba09cfe934fac4c30e3c0c57f277201629c" width="600px" height="500px" />
