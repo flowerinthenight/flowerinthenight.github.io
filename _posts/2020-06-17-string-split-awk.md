@@ -7,7 +7,7 @@ tags: [awk, commandline, string, split]
 
 _For personal reference:_
 
-Lately, I've been doing loads of CSV processing on the terminal with lots of string replacing/splitting. There are probably a better (shorter) way to do this but I've been leaning on `awk` a lot recently.
+Lately, I've been doing loads of CSV processing on the terminal with lots of string replacing/splitting. There are probably better (shorter) ways to do this but I've been leaning on `awk` a lot recently.
 
 Some examples.
 
