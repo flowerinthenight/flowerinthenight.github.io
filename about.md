@@ -37,10 +37,6 @@ Also, why Flowerinthenight? Good question. If you are thinking about Flowerinthe
 * [Mobingi's tech blog that I maintain as well](https://tech.mobingi.com/)
 * [Docker logging presentation at Tokyo Mastercloud](https://www.slideshare.net/chewesmero/docker-logging-best-practices)
 
-## Education
-
-BS in Computer Engineering &#124; 2000-2005
-
 ## Contact
 
 <div>
