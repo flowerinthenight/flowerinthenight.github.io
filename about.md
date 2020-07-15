@@ -13,7 +13,7 @@ Also, why Flowerinthenight? Good question. If you are thinking about Flowerinthe
 ## Work history
 
 * Engineering Manager, 2017-present &#124; [Alphaus Cloud, Japan](https://mobingi.com)
-  * Acting CTO, overall architecture design, engineering management, recruitment
+  * Engineering management, overall architecture design, recruitment
   * Go (golang), Microservices, DevOps, Docker, Kubernetes
   * Multicloud (AWS, GCP, Azure, AlibabaCloud/SBCloud)
 * Senior Software Engineer, 2016-2017 &#124; [TeraRecon, Inc.](http://www.terarecon.com/)
