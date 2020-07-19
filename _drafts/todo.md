@@ -19,3 +19,5 @@ tags: [gcp, google, api, authentication, service-account]
   * now spacemacs in linux is working great, not probably because of linux, but specs
   * tried the terminal version, not as good
   * vim is still the best
+* goreleaser + tap
+* oops announce
