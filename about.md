@@ -21,9 +21,9 @@ Also, why Flowerinthenight? Good question. If you are thinking about Flowerinthe
   * Microservices (Go, .NET Core, Service Fabric)
   * Front-end (Angular, JavaScript, TypeScript)
 * Software Engineer, 2008-2016 &#124; [IBM -> Lenovo](https://en.wikipedia.org/wiki/Lenovo#IBM)
-  * Device driver development (WDM, KMDF, UMDF, Linux)
+  * Device driver development (WDM, KMDF, UMDF, Linux, Android)
   * BIOS development (C, x86 ASM)
-  * Video, camera, audio related development (DirectShow, Media Foundation, OpenCV, DirectX)
+  * Video, camera, audio related development (DirectShow, Media Foundation, OpenCV, DirectX, Intel IPP)
   * Windows development (Win32, MFC, COM, .NET, UWP)
   * Android development (framework level, JNI, C++)
   * Embedded systems
