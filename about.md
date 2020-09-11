@@ -13,14 +13,14 @@ Also, why Flowerinthenight? Good question. If you are thinking about Flowerinthe
 ## Work history
 
 * CTO, 2017-present &#124; [Alphaus Cloud, Japan](https://mobingi.com)
-  * Engineering management, overall architecture design, recruitment
-  * Go (golang), Microservices, DevOps, Docker, Kubernetes
-  * FinOps, Multicloud (AWS, GCP, Azure, AliCloud/SBCloud)
+  * Product/technology strategy, engineering management, recruitment
+  * Overall architecture design, CIO hat, engineering processes
+  * FinOps, Multicloud (AWS, GCP, Azure)
 * Senior Software Engineer, 2016-2017 &#124; [TeraRecon, Inc.](http://www.terarecon.com/)
   * Image processing, 2D/3D rendering (C#, C, C++, DICOM)
   * Microservices (Go, .NET Core, Service Fabric)
   * Front-end (Angular, JavaScript, TypeScript)
-* Software Engineer, 2008-2016 &#124; [IBM -> Lenovo](https://en.wikipedia.org/wiki/Lenovo#IBM)
+* Engineer, 2008-2016 &#124; [IBM -> Lenovo](https://en.wikipedia.org/wiki/Lenovo#IBM)
   * Device driver development (WDM, KMDF, UMDF, Linux, Android)
   * BIOS development (C, x86 ASM)
   * Video, camera, audio related development (DirectShow, Media Foundation, OpenCV, DirectX, Intel IPP)
