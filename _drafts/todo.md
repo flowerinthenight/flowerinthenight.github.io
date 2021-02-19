@@ -5,6 +5,7 @@ location: "Japan"
 tags: [gcp, google, api, authentication, service-account]
 ---
 
+* share conky settings
 * update emacs automatically
 * about goreleaser + brew/tap (followup)
 * can unlock directly in pop-os
