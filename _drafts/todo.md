@@ -5,6 +5,8 @@ location: "Japan"
 tags: [gcp, google, api, authentication, service-account]
 ---
 
+* update emacs automatically
+* about goreleaser + brew/tap (followup)
 * can unlock directly in pop-os
 * how to change gdm3 greeter resolution: https://superuser.com/questions/1270939/how-can-i-change-gdm-greeter-resolution-debian-9-xwayland-vmware
 * tmpfs /tmp + .cache
