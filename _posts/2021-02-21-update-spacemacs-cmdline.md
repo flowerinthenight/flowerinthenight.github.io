@@ -5,6 +5,8 @@ location: "Japan"
 tags: [emacs, spacemacs]
 ---
 
+Reference:
+
 Ever since I've started using Spacemacs on Linux, I've been using this simple script as a command alias to update Spacemacs using the command line.
 
 {% highlight shell %}
