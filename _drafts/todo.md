@@ -5,6 +5,7 @@ location: "Japan"
 tags: [gcp, google, api, authentication, service-account]
 ---
 
+* share ./goset.sh
 * share conky settings
 * update emacs automatically
 * about goreleaser + brew/tap (followup)
