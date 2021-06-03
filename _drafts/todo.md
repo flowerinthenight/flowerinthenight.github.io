@@ -7,11 +7,7 @@ tags: [gcp, google, api, authentication, service-account]
 
 * Hacky way to update problematic go modules
 ```
-# List updatables:
-$ cat go.mod | grep -i 'gith' | grep -i -v 'ind' | awk '{print $1}' > update
-
-# Do actual update:
-$ while read -r v; do go get -u $v; done < update
+cat go.mod | grep -i 'gith' | grep -i -v 'ind' | awk '{print $1}' > update; while read -r v; do go get -u $v; done < update; rm update
 ```
 
 * about goreleaser + brew/tap (followup)
