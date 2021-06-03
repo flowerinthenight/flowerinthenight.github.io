@@ -5,6 +5,15 @@ location: "Japan"
 tags: [gcp, google, api, authentication, service-account]
 ---
 
+* Hacky way to update problematic go modules
+```
+# List updatables:
+$ cat go.mod | grep -i 'gith' | grep -i -v 'ind' | awk '{print $1}' > update
+
+# Do actual update:
+$ while read -r v; do go get -u $v; done < update
+```
+
 * about goreleaser + brew/tap (followup)
 * can unlock directly in pop-os
 * how to change gdm3 greeter resolution: https://superuser.com/questions/1270939/how-can-i-change-gdm-greeter-resolution-debian-9-xwayland-vmware
