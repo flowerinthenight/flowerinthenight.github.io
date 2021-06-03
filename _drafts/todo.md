@@ -11,6 +11,5 @@ tags: [gcp, google, api, authentication, service-account]
 * how to change gdm3 greeter resolution: https://superuser.com/questions/1270939/how-can-i-change-gdm-greeter-resolution-debian-9-xwayland-vmware
 * tmpfs /tmp + .cache
 * how to build ruby-2.3.1
-* role as auth for aws sdk
 * blog vim
 * goreleaser + tap
