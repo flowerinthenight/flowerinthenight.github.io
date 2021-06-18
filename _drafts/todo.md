@@ -5,6 +5,7 @@ location: "Japan"
 tags: [gcp, google, api, authentication, service-account]
 ---
 
+* full template for using grpc + grpc-gateway + docs
 * Hacky way to update problematic go modules
 ```
 cat go.mod | grep -i 'gith' | grep -i -v 'ind' | awk '{print $1}' > update; while read -r v; do go get -u $v; done < update; rm update
