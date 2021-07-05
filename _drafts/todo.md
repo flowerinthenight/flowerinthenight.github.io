@@ -5,12 +5,8 @@ location: "Japan"
 tags: [gcp, google, api, authentication, service-account]
 ---
 
+* grpc-gateway, support the Any protobuf to proxy as separate process, just force import generated pb.go using `_ "github.com/username/pkgwithpbgo"`
 * full template for using grpc + grpc-gateway + docs
-* Hacky way to update problematic go modules
-```
-cat go.mod | grep -i 'gith' | grep -i -v 'ind' | awk '{print $1}' > update; while read -r v; do go get -u $v; done < update; rm update
-```
-
 * about goreleaser + brew/tap (followup)
 * can unlock directly in pop-os
 * how to change gdm3 greeter resolution: https://superuser.com/questions/1270939/how-can-i-change-gdm-greeter-resolution-debian-9-xwayland-vmware
