@@ -6,6 +6,7 @@ tags: [gcp, google, api, authentication, service-account]
 ---
 
 * grpc-gateway, support the Any protobuf to proxy as separate process, just force import generated pb.go using `_ "github.com/username/pkgwithpbgo"`
+  https://github.com/grpc-ecosystem/grpc-gateway/issues/554
 * full template for using grpc + grpc-gateway + docs
 * about goreleaser + brew/tap (followup)
 * can unlock directly in pop-os
