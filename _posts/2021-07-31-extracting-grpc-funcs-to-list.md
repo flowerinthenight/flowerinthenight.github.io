@@ -17,5 +17,5 @@ $ grep -o -R -i -E '"/blueapi\..*"' . | awk -F':' '{gsub(/"/, "", $2); print "-"
   sort | uniq >> /tmp/funcs.yaml
 {% endhighlight %}
 
-The final results are now uploaded to this [repository](https://github.com/alphauslabs/blueapi-functions).
+The final list is uploaded to this [repository](https://github.com/alphauslabs/blueapi-functions).
 
