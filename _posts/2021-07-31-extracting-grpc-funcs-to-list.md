@@ -13,7 +13,8 @@ $ grep -o -R -i -E '"/blueapi\..*"' . | awk -F':' '{gsub(/"/, "", $2); print "-"
 
 # Actual commands; save as yaml:
 $ echo "functions:" > /tmp/funcs.yaml
-$ grep -o -R -i -E '"/blueapi\..*"' . | awk -F':' '{gsub(/"/, "", $2); print "-", substr($2, 2);}' | sort | uniq >> /tmp/funcs.yaml
+$ grep -o -R -i -E '"/blueapi\..*"' . | awk -F':' '{gsub(/"/, "", $2); print "-", substr($2, 2);}' | \
+  sort | uniq >> /tmp/funcs.yaml
 {% endhighlight %}
 
 The final results are now uploaded to this [repository](https://github.com/alphauslabs/blueapi-functions).
