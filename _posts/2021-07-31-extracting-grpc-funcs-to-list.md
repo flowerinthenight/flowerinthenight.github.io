@@ -5,7 +5,7 @@ location: "Japan"
 tags: [golang, grpc, grpc-gateway, cmdline]
 ---
 
-This might be hacky and there might a proper way to do this but recently, I needed to generate all the functions' gRPC-generated full names from our protobuf definitions. This was part of our RBAC module that needs to filter gRPC function calls. I got the list from our [generated Go client](https://github.com/alphauslabs/blue-sdk-go) using the following command(s):
+This might be hacky and there might be a proper way to do this but recently, I needed to generate all the functions' gRPC-generated full names from our protobuf definitions. This is part of our RBAC module that needs to filter gRPC function calls. I got the list from our [generated Go client](https://github.com/alphauslabs/blue-sdk-go) using the following command(s):
 
 {% highlight shell %}
 # Main command:
