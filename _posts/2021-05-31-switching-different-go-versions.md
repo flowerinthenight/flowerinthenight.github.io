@@ -9,7 +9,6 @@ I use this handy little script to switch between different Go (golang) versions:
 
 {% highlight shell %}
 #!/bin/bash
-
 $1 version &>/dev/null
 if [ $? -eq 0 ]; then
     ln -sf $GOPATH/bin/$1 $HOME/.local/bin/go
