@@ -10,8 +10,7 @@ _For personal reference:_
 Download the latest GitHub Releases asset using common command line tools:
 
 {% highlight shell %}
-# Update the url accordingly.
-# The `uname | awk` subcmds will output 'Linux'|'Darwin'.
+# Update the url accordingly. The `uname | awk` subcmds will output 'linux'|'darwin'.
 $ curl -s https://api.github.com/repos/alphauslabs/bluectl/releases/latest | \
   jq -r ".assets[] | select(.name | contains(\"$(uname -s | awk '{print tolower($0)}')\")) | .browser_download_url" | \
   wget -i -
