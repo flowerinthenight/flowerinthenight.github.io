@@ -37,6 +37,7 @@ analytics:
     sc_text     : 2
   google:
     tracking_id: 'UA-82334828-1'
+    measurement_id: 'G-EZWHM5C9YT'
   getclicky:
     site_id:
   mixpanel:
