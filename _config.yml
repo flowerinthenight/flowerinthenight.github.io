@@ -25,7 +25,7 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-# Settings for analytics helper
+# Settings for analytics helper.
 # Set 'provider' to the analytics provider you want to use.
 # Set 'provider' to false to turn analytics off globally.
 analytics:
