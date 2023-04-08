@@ -5,7 +5,7 @@ location: "Japan"
 tags: [git, history]
 ---
 
-Fore self refernce:
+Fore self reference:
 
 To restore default branch from a tag while preserving history, do:
 
