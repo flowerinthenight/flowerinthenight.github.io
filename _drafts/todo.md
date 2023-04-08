@@ -5,9 +5,7 @@ location: "Japan"
 tags: [gcp, google, api, authentication, service-account]
 ---
 
-* generate swagger, merge all, hosted in github
-* grpc-gateway, support the Any protobuf to proxy as separate process, just force import generated pb.go using `_ "github.com/username/pkgwithpbgo"`
-  https://github.com/grpc-ecosystem/grpc-gateway/issues/554
+* migrating hedge's custom member tracking to hashicorp/memberlist - due to a bug; diff=slower to resolve missing nodes
 * full template for using grpc + grpc-gateway + docs
 * about goreleaser + brew/tap (followup)
 * can unlock directly in pop-os
