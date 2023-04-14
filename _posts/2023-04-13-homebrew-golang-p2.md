@@ -38,7 +38,7 @@ See the `name: Run goreleaser` section. You need to add a personal access token 
 
 #### c) Do a tagged release
 
-Tagged releases will do a deployment to your tap.
+Tagged releases should now do a deployment to your tap.
 
 {% highlight shell %}
 $ git tag v1.0.0
