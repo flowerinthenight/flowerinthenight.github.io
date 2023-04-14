@@ -31,10 +31,10 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: basicauth
-  data:
-    htpasswd: |
-      # generate: $ htpasswd -c {file} username (then input password)
-      user1:$apr1$c/7lb2VS$SQ9pPJ8XfNpPH.jmnHRsE0
+data:
+  htpasswd: |
+    # generate: $ htpasswd -c {file} username (then input password)
+    user1:$apr1$c/7lb2VS$SQ9pPJ8XfNpPH.jmnHRsE0
 
 ---
 
