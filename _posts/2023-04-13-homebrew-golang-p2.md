@@ -28,7 +28,7 @@ First, add a `.goreleaser.yml` config file to your Go repo. Here's an example:
 
 <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fflowerinthenight%2Fkubepfm%2Fblob%2Fmaster%2F.goreleaser.yml&style=default&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
 
-The section of note here is the `brews:` part.
+The section of note here is the `brews:` part. You can check goreleaser's [Quickstart](https://goreleaser.com/quick-start/) guide for more information.
 
 Here's an example of a GitHub Action config on how to setup [goreleaser](https://github.com/goreleaser/goreleaser) to do the release for our tags.
 
