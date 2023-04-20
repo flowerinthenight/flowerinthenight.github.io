@@ -34,7 +34,8 @@ Also, why Flowerinthenight? Good question. If you are thinking about Flowerinthe
 * Japanese - conversational
 
 ## Others
-* [Mobingi's tech blog that I maintain as well](https://tech.mobingi.com/) (a bit outdated)
+* [Alphaus Engineering blog that I maintain](https://labs.alphaus.cloud/blog/)
+* [Mobingi's old tech blog that I maintain](https://tech.mobingi.com/) (archived)
 
 ## Contact
 
