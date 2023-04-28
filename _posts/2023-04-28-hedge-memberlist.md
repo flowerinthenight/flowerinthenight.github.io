@@ -2,7 +2,7 @@
 layout: post
 title: "Attempt to replace hedge's member tracking with hashicorp/memberlist"
 location: "Japan"
-tags: [memberlist, hedge, distributed-computing]
+tags: [memberlist, hedge, distributed-computing, k8s, kubernetes]
 ---
 
 I recently came across [hashicorp/memberlist](https://github.com/hashicorp/memberlist) library while browsing GitHub and I thought it would be a good replacement for [hedge](https://github.com/flowerinthenight/hedge)'s internal member tracking logic. It seems to be widely used (thus more battle-tested) as well. I was quite excited as I always thought that hedge's equivalent logic is too barebones and untested outside of our use cases. It works just fine for its current intended purpose but I've been hesitating to build on top of it until I can really say that it's stable enough. With memberlist, it might just be what I needed.
