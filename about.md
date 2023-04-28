@@ -20,7 +20,7 @@ Also, why Flowerinthenight? Good question. If you are thinking about Flowerinthe
   * Image processing, 2D/3D rendering (C#, C, C++, DICOM)
   * Microservices (Go, .NET Core, Service Fabric)
   * Front-end (Angular, JavaScript, TypeScript)
-* Engineer, 2008-2016 &#124; [IBM -> Lenovo](https://en.wikipedia.org/wiki/Lenovo#IBM)
+* Engineer, 2008-2016 &#124; [IBM -> Lenovo](https://en.wikipedia.org/wiki/Acquisition_of_the_IBM_PC_business_by_Lenovo)
   * Device driver development (WDM, KMDF, UMDF, Linux, Android)
   * BIOS development (C, x86 ASM)
   * Video, audio related development (DirectShow, Media Foundation, OpenCV, DirectX, Intel IPP)
