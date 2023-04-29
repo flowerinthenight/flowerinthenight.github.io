@@ -1,6 +1,6 @@
 title: Flowerinthenight
 description: Flowerinthenight personal website and blog.
-sourcecode: "https://github.com/flowerinthenight/flowerinthenight.github.io"
+sourcecode: "https://github.com/flowerinthenight"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
