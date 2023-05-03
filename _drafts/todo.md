@@ -5,7 +5,7 @@ location: "Japan"
 tags: [gcp, google, api, authentication, service-account]
 ---
 
-* migrating hedge's custom member tracking to hashicorp/memberlist - due to a bug; diff=slower to resolve missing nodes
+* write about retry; backoff and gaxv2
 * full template for using grpc + grpc-gateway + docs
 * about goreleaser + brew/tap (followup)
 * can unlock directly in pop-os
