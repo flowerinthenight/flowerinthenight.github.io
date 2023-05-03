@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alphaus engineering blog launched"
+title: "Alphaus Blue API"
 location: "Japan"
 tags: [alphaus, blog, engineering, technical]
 ---
