@@ -24,3 +24,5 @@ Example 2 (my preference):
 {% gist 33bbe6d25e7794db471c105cc40e63dd %}
 
 In conclusion, retries with backoff are an important technique for improving the robustness and availability of distributed systems. By waiting before retrying failed requests, the client can help reduce the impact of temporary failures and improve overall system availability. There are several strategies for implementing retries with backoff, and choosing the right approach will depend on the specific requirements of the system.
+
+Additional reading: [https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
