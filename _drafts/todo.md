@@ -5,9 +5,9 @@ location: "Japan"
 tags: [gcp, google, api, authentication, service-account]
 ---
 
-* write about retry; backoff and gaxv2
+* Flipt feature flagging guide
+* Startup stuck in no-growth (research)
 * full template for using grpc + grpc-gateway + docs
-* about goreleaser + brew/tap (followup)
 * can unlock directly in pop-os
 * how to change gdm3 greeter resolution: https://superuser.com/questions/1270939/how-can-i-change-gdm-greeter-resolution-debian-9-xwayland-vmware
 * tmpfs /tmp + .cache
