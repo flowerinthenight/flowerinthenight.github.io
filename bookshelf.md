@@ -8,6 +8,12 @@ These are the books I've read so far. At least the ones I've remembered. If you 
 
 Current: **Toll the Hounds**
 
+* Washington Poe Series
+  * The Puppet Show
+  * Black Summer
+  * The Curator
+  * Dead Ground
+  * The Botanist
 * The Malazan Book of the Fallen
   * Gardens of the Moon
   * Deadhouse Gates
