@@ -49,6 +49,41 @@ metadata:
                 secretName: spannerbackup-keyfile
 {% endhighlight %}
 
+Using backtick:
+
+```yaml
+apiVersion: batch/v1beta1
+kind: CronJob
+metadata:
+  name: spannerbackup
+  spec:
+    concurrencyPolicy: Forbid
+    # Run every day @ 2:30am JST (below is UTC)
+    schedule: "30 17 * * *"
+    jobTemplate:
+      spec:
+        template:
+          spec:
+            containers:
+            - name: spannerbackup
+              image: google/cloud-sdk:307.0.0-slim
+              command: ["/bin/bash"]
+              env:
+              - name: GET_HOSTS_FROM
+                value: dns
+              - name: GOOGLE_APPLICATION_CREDENTIALS
+                value: /etc/spannerbackup/svcacct.json
+              volumeMounts:
+              - name: keyfile
+                mountPath: "/etc/spannerbackup"
+                readOnly: true
+            restartPolicy: OnFailure
+            volumes:
+            - name: keyfile
+              secret:
+                secretName: spannerbackup-keyfile
+```
+
 Finally, deploy to k8s.
 
 {% highlight shell %}
